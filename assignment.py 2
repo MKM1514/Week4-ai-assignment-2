@@ -1,0 +1,33 @@
+##print("Hello,ai Students)
+Hello ai Students
+##create the following variables in python.
+name
+age
+city
+Name="Moureen"
+Age=22
+City="Nairobi"
+print(name)
+print(age)
+print(city)
+Moureen
+22
+Nairobi
+##create a list of five proggramming languages
+languages=("Python","Java","C++","Javascript","Ruby")
+print(languages)
+('Python','Java','C++','Javascript','Ruby')
+##create a dictionary with the following information
+Name
+Age
+Course
+print the student name
+student=(
+  "Name":Moureen",
+"Age":22,
+"Course":"artificial inteligence"
+print(student:["Name"])
+Moureen
+##Explain the difference between a list and a dictionary?
+a list is an ordered collections of items while a dictionary is an unordered collection of key-value pairs.
+"Course
